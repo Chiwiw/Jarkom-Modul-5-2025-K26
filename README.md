@@ -45,3 +45,5 @@ Dari topologi dan kebutuhan hsot per client tersebut, kami **membagi subnet** ny
 
 
 ### Subnet Tree 
+<img width="1629" height="1021" alt="Subnet Tree fix drawio" src="https://github.com/user-attachments/assets/fcc4823c-6c8a-430d-a82a-a5b924fa621d" />
+
